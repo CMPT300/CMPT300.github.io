@@ -1,6 +1,6 @@
 /local
 /labs/*/*.ipynb
-/homework
+/homework/*/*.ipynb
 /.ipynb_checkpoints
 **/.ipynb_checkpoints
 
