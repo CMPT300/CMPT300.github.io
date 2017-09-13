@@ -4,6 +4,7 @@
 **/solution
 **/present
 **/student
+**/local
 
 *.pyc
 ~$*
