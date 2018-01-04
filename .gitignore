@@ -1,11 +1,4 @@
-/local
-/.ipynb_checkpoints
-**/.ipynb_checkpoints
-**/solution
-**/present
-**/student
-**/local
-
-*.pyc
-~$*
-.DS_Store*
+*
+*/
+/*
+!.gitignore
